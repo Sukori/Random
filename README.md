@@ -1,13 +1,17 @@
-📜 RANDOM
+# 📜 RANDOM
 
-"PUSHEZ SE QUE VOUS VOULEZ."
+"PUSHEZ CE QUE VOUS VOULEZ."
 
-🚀 À propos du Projet
 
-On va essayer de faire qqc de grand et beau, pushez se que vous voulez.
+## 🌍 OPEN CONTRIBUTIONS
 
-🤝 Collaborateurs
+**FEEL FREE TO PUSH AND MODIFY ANYTHING!**
 
-● Fedor — Grand Architecte
+This repository is a sanctuary of absolute creative freedom. You are heartily invited to contribute, edit, or upload absolutely **anything** you desire. Whether it be grand architectural designs or the most whimsical nonsense, your commits are welcome here. There are no rules, no boundaries—just push whatever is on your mind!
 
-● Fedor — Contributeurs de talent
+---
+
+## 🤝 Collaborateurs
+
+*   **Fedor** — Grand Architecte
+*   **Fedor** — Contributeur de talent
