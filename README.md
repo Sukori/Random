@@ -29,3 +29,4 @@ leave the part that everyone can push but everything
 *   **Ciro Cantilli** - Greatest One Man Army against China (Xi Jin Ping)
 *   **Simon Renaud** - Digital Homeless
 *   **Nelson** - Nvim
+*   **pucci** - Scientifique chevronné
