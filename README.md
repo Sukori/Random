@@ -12,11 +12,15 @@ This repository is a sanctuary of absolute creative freedom. You are heartily in
 
 ---
 
-## 🚀 À propos du Projet
+## 🚀 ÀBOUT PROJECT
 
 We are going to strive to create something grand and beautiful, so feel free to push whatever you desire!  Anyone is welcome to fork this project and submit pull requests; 🍴💻 I pledge to accept them to enrich our common masterpiece.
 
 ---
+
+## YOU CAN MODIFY THE READ ME
+
+leave the part that everyone can push but everything
 
 ## 🤝 Collaborateurs
 
