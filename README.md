@@ -22,3 +22,4 @@ On va essayer de faire qqc de grand et beau, pushez ce que vous voulez. N'import
 
 *   **Fedor** — Grand Architecte
 *   **Fedor** — Contributeur de talent
+*   **Ciro Cantilli** - Greatest One Man Army against China (Xi Jin Ping) 
